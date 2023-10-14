@@ -1,77 +1,39 @@
 .filter-bar {
-
     background-color: #f0f0f0;
-
     padding: 10px;
-
     margin: 10px;
-
     display: flex;
-
     justify-content: space-between;
-
     align-items: center;
-
 }
-
- 
 
 .filter-group {
-
     display: flex;
-
     flex-direction: column;
-
     margin-bottom: 10px;
-
 }
-
- 
 
 .filter-bar label {
-
     margin-bottom: 5px;
-
 }
-
- 
 
 .product-item {
-
     border: 1px solid #ddd;
-
     padding: 10px;
-
     margin: 5px;
-
 }
-
- 
 
 .price-filter {
-
-    margin-bottom: 20px;
-
+    margin-bottom: 20px; 
     display: flex;
-
     flex-direction: column;
-
 }
-
- 
 
 #price-range {
-
-    width: 100%;
-
+    width: 100%; 
 }
 
- 
-
 #price-label {
-
     text-align: center;
-
     font-weight: bold;
-
 }
